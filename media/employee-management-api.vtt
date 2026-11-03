@@ -1,0 +1,19 @@
+WEBVTT
+
+00:00:00.000 --> 00:00:04.500
+Hello, and welcome to my Employee Management API project.
+
+00:00:04.500 --> 00:00:11.000
+This project is built using Node.js, Express.js, and PostgreSQL.
+
+00:00:11.000 --> 00:00:16.500
+It follows a modular architecture, with organized routes, controllers, and services.
+
+00:00:16.500 --> 00:00:26.000
+The API supports retrieving employee records, creating new employees, and handling requests with proper validation and error handling.
+
+00:00:26.000 --> 00:00:30.200
+This project demonstrates my practical backend development skills.
+
+00:00:30.200 --> 00:00:32.000
+Thank you for watching!
